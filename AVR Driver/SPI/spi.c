@@ -6,7 +6,7 @@
  *
  * Description: Source file for the SPI AVR driver
  *
- * Author: Mohamed Tarek
+ * Author: Youssef Mohamed
  *
  *******************************************************************************/
 
